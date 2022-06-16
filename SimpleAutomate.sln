@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAutomate.SwagLabs.Tests", "SimpleAutomate.SwagLabs.Tests\SimpleAutomate.SwagLabs.Tests.csproj", "{E955A9B9-67CE-4144-9D95-5A104FA5E0F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAutomate.Core", "SimpleAutomate.Core\SimpleAutomate.Core.csproj", "{86570566-8AC4-4BB7-9FC3-D712A456AD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E955A9B9-67CE-4144-9D95-5A104FA5E0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E955A9B9-67CE-4144-9D95-5A104FA5E0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E955A9B9-67CE-4144-9D95-5A104FA5E0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E955A9B9-67CE-4144-9D95-5A104FA5E0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86570566-8AC4-4BB7-9FC3-D712A456AD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86570566-8AC4-4BB7-9FC3-D712A456AD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86570566-8AC4-4BB7-9FC3-D712A456AD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86570566-8AC4-4BB7-9FC3-D712A456AD01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5AE9BB-3619-42C9-8D4C-790AC72EF286}
+	EndGlobalSection
+EndGlobal
